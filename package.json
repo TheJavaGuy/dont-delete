@@ -1,0 +1,22 @@
+{
+  "name": "@thejavaguy/dont-delete",
+  "version": "0.0.1",
+  "description": "Empty node.js project for overcoming some CI problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheJavaGuy/dont-delete.git"
+  },
+  "author": "Ivan Milosavljević <TheJavaGuy@yandex.com> (TheJavaGuy)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheJavaGuy/dont-delete/issues"
+  },
+  "homepage": "https://github.com/TheJavaGuy/dont-delete#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
